@@ -1,0 +1,6 @@
+[submodule "PyTorch-YOLOv3"]
+	path = PyTorch-YOLOv3
+	url = https://github.com/eriklindernoren/PyTorch-YOLOv3
+[submodule "RepPoints"]
+	path = RepPoints
+	url = https://github.com/microsoft/RepPoints
